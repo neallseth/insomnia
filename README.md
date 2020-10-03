@@ -1,4 +1,6 @@
 # mouse-mover
+An easy way to prevent your machine from falling asleep
+
 ## Installation
 1. Install Python
 
